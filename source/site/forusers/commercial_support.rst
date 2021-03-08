@@ -490,7 +490,7 @@ GRASS GIS and FOSS GIS based SDI solutions.
    :width: 75 px
 
 |thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_
-(Stirling, Scotland) thinkWhere is an independent GIS
+(Stirling, Scotland) thinkWhere - an independent GIS
 consultancy in the UK.  We provide a broad range of innovative GIS products
 and services including "Location Centre" (a hosted Cloud-based GIS built from
 open source technologies). As a QGIS site, our team of geospatial experts use
